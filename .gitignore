@@ -1,0 +1,26 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DumpHomework/.vs/MyCalculator/v17
+/DumpHomework/New folder/.vs
+/DumpHomework/New folder/bin/Debug/net46
+/DumpHomework/New folder/MyCalculator/.vs/MyCalculator/v17
+/DumpHomework/New folder/obj
+/DumpHomework/WpfApp1/.vs
+/DumpHomework/WpfApp1/WpfApp1/obj
+/DumpHomework/WpfApp1
+/GameOfLife/GameOfLife/.vs/GameOfLife
+/GameOfLife/GameOfLife/GameOfLife/bin/Debug
+/GameOfLife/GameOfLife/GameOfLife/obj/Debug
+/GameOfLife/GameOfLife/packages
+/ProfileSample/ProfileSample/.vs/ProfileSample
+/ProfileSample/ProfileSample/packages
+/ProfileSample/ProfileSample/ProfileSample/bin
+/ToolsConsoleApp/.vs
+/ToolsConsoleApp/ToolsConsoleApp/bin
+/ToolsConsoleApp/ToolsConsoleApp/obj
+/ProfileSample/ProfileSample/ProfileSample/obj/Debug
+/DumpHomework/MyCalculator.dmp
+/DumpHomework/MyCalculator.exe
+/DumpHomework/New folder/MyCalculator/.vs/MyCalculator/FileContentIndex

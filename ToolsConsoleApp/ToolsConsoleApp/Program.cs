@@ -8,6 +8,10 @@ class Task1
         byte[] salt = GenerateSalt(16);
         var hash = GeneratePasswordHashUsingSalt("password", salt);
         var hashFixed = FixedGeneratePasswordHashUsingSalt("password", salt);
+
+        Console.WriteLine($"Hash: {hash}");
+
+        Console.WriteLine($"Fixed Hash: {hashFixed}"); 
     }
 
     public static string GeneratePasswordHashUsingSalt(string passwordText, byte[] salt)
